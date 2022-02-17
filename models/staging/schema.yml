@@ -4,10 +4,10 @@ version: 2
 sources:
     - name: staging
       #For bigquery:
-      #database: taxi-rides-ny-339813
+      database: razor-project-339321
 
       # For postgres:
-      database: production
+      # database: staging
 
       schema: trips_data_all
 
