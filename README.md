@@ -1,4 +1,9 @@
-Welcome to your new dbt project!
+## Edited for DE learning
+
+#### FHV trips
+![image](https://user-images.githubusercontent.com/3721810/154821617-294c6e4a-34e8-4c9f-992c-faec506bbb78.png)
+
+
 
 ### How to run this project 
 ### About the project
